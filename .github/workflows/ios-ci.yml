@@ -17,4 +17,4 @@ jobs:
         run: |
           echo "Note: Update -scheme and -destination once the Xcode project exists."
           # Example (replace 'StarterKit' with your app & test scheme):
-          # xcodebuild -scheme StarterKit -sdk iphonesimulator -destination 'platform=iOS Simulator,name=iPhone 16' clean test | xcpretty
+          # xcodebuild -scheme StarterKit -sdk iphonesimulator -destination 'platform=iOS Simulator,name=iPhone 17 Pro' clean test | xcpretty
